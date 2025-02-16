@@ -1,0 +1,5 @@
+huggingface-hub==0.28.1
+librosa==0.10.2.post1
+transformers==4.48.3
+standard-aifc==3.10.14
+matplotlib==3.10.0

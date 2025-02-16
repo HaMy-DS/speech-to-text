@@ -1,0 +1,8 @@
+services:
+  sport-intelligence-ai:
+    build: .
+    volumes:
+      - .:/app
+      - /tmp:/tmp
+      - /mnt/vol:/mnt/vol
+    image: sport-intelligence-ai
